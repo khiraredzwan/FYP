@@ -1,5 +1,5 @@
 
-This project for my Final Year Project. The data(images) for this project are confidential. Hence, only the image processing technigue or code can be view as a reference.
+This project for my Final Year Project. The data(images) for this project are confidential. Hence, only the image processing technigue and code can be view as a reference. This system was primarily developed using Python programming language.
 
 +++++++++++++++++++++++
 PROJECT PRE-REQUISITES
